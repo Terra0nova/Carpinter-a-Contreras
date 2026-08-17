@@ -1,14 +1,57 @@
 <!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Carpinter-a-Contreras | Fabricamos cocinas, closets, puertas, escritorios y muebles personalizados.</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Carpinter-a-Contreras" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Fabricamos cocinas, closets, puertas, escritorios y muebles personalizados." />
+<meta property="og:description" content="Fabricamos cocinas, closets, puertas, escritorios y muebles personalizados." />
+<link rel="canonical" href="https://terra0nova.github.io/Carpinter-a-Contreras/" />
+<meta property="og:url" content="https://terra0nova.github.io/Carpinter-a-Contreras/" />
+<meta property="og:site_name" content="Carpinter-a-Contreras" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Carpinter-a-Contreras" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"Fabricamos cocinas, closets, puertas, escritorios y muebles personalizados.","headline":"Carpinter-a-Contreras","name":"Carpinter-a-Contreras","url":"https://terra0nova.github.io/Carpinter-a-Contreras/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/Carpinter-a-Contreras/assets/css/style.css?v=5de5a84166bf77cd29d7b2077993764344441dd6">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/Carpinter-a-Contreras/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://terra0nova.github.io/Carpinter-a-Contreras/">Carpinter-a-Contreras</a></h1>
+      
+
+      <p>&lt;!DOCTYPE html&gt;</p>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Carpintería Contreras</title>
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
 
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&amp;display=swap" rel="stylesheet" />
 
 <style>
 
@@ -322,13 +365,13 @@ Sobre Nosotros
 
 <div class="sobre">
 
-<img src="https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=900&q=80">
+<img src="https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&amp;fit=crop&amp;w=900&amp;q=80" />
 
 <div>
 
 <h2>Más de 10 años de experiencia</h2>
 
-<br>
+<br />
 
 <p>
 
@@ -338,7 +381,7 @@ Nuestro objetivo es ofrecer muebles duraderos con acabados profesionales.
 
 </p>
 
-<br>
+<br />
 
 <a href="#contacto" class="btn">
 Contáctanos
@@ -358,13 +401,13 @@ Galería
 
 <div class="galeria">
 
-<img src="IMG_20250621_202337.jpg">
+<img src="IMG_20250621_202337.jpg" />
 
-<img src="IMG_20250712_153005.jpg">
+<img src="IMG_20250712_153005.jpg" />
 
-<img src="IMG_20250712_152854.jpg">
+<img src="IMG_20250712_152854.jpg" />
 
-<img src="IMG_20250621_182929.jpg">
+<img src="IMG_20250621_182929.jpg" />
 
 </div>
 
@@ -382,11 +425,11 @@ Contáctanos
 
 <form>
 
-<input type="text" placeholder="Nombre">
+<input type="text" placeholder="Nombre" />
 
-<input type="email" placeholder="Correo">
+<input type="email" placeholder="Correo" />
 
-<input type="tel" placeholder="Teléfono">
+<input type="tel" placeholder="Teléfono" />
 
 <textarea placeholder="Escribe tu mensaje"></textarea>
 
@@ -402,25 +445,25 @@ Enviar
 
 <h2>Información</h2>
 
-<br>
+<br />
 
 <p>
 📍 Ciudad de México
 </p>
 
-<br>
+<br />
 
 <p>
 📞 55 56 6810 9505
 </p>
 
-<br>
+<br />
 
 <p>
 ✉ cocinascontreras@outlook.com
 </p>
 
-<br>
+<br />
 
 <p>
 
@@ -443,4 +486,12 @@ Lunes a Sábado
 </footer>
 
 </body>
+</html>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
 </html>
